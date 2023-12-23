@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Vinoth, Working as Frontend Engineer at Tekion Corp
+
 ```javascript
 const vinoth =  {
     name: "Vinoth Kumar",
