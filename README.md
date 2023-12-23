@@ -22,6 +22,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/jest-6?logo=jest&logoColor=white&color=maroon" />
+  <img alt="MySql" src="https://img.shields.io/badge/mysql-6?logo=mysql&logoColor=black&color=lightblue" />
+  <img alt="Mongodb" src="https://img.shields.io/badge/mongodb-6?logo=mongodb&logoColor=black&color=green" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/mongodb-6?logo=mongodb&logoColor=black&color=green" />
+  
 </p>
 
 ### Top Repositories
@@ -37,4 +41,16 @@
 <a href="https://github.com/vinothwino/library-management-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinothwino&repo=library-management-system&theme=buefy" alt="library management system"/>
 </a>
+
+### My Latest Posts
+
+- <a href="https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*91rDrdACaL6Ljzwl_yuf_A.jpeg" alt="Finally better reactjs folder structure"/>
+</a>
+- <a href="https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*91rDrdACaL6Ljzwl_yuf_A.jpeg" alt="Finally better reactjs folder structure"/>
+</a>
+
+
+
 
