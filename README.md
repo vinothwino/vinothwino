@@ -42,7 +42,7 @@
 ### My Latest Posts
 
 - [Finally Better Reactjs Folder structure](https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835)
-- [Grid System](https://medium.com/@kumarvinoth/grid-system-bootstrap-3-4-cee40889f263)
+- [Grid System | Bootstrap 3 & 4](https://medium.com/@kumarvinoth/grid-system-bootstrap-3-4-cee40889f263)
 
 
 
