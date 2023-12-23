@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<code>
-  {
+```javascript
+const vinoth =  {
     name: "Vinoth Kumar",
     role: "Frontend developer",
     technologies: "HTML, CSS, Javascript, Reactjs, Typescript, Tailwindcss, bootstrap, jest, react testing library, nodejs, mysql and mongodb"
   }
-</code>
+```
 
 ### Porfolio Projects
 
