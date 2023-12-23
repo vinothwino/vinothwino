@@ -44,12 +44,8 @@
 
 ### My Latest Posts
 
-- <a href="https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*91rDrdACaL6Ljzwl_yuf_A.jpeg" alt="Finally better reactjs folder structure"/>
-</a>
-- <a href="https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*91rDrdACaL6Ljzwl_yuf_A.jpeg" alt="Finally better reactjs folder structure"/>
-</a>
+- [Finally Better Reactjs Folder structure](https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835)
+- [Grid System](https://medium.com/@kumarvinoth/grid-system-bootstrap-3-4-cee40889f263)
 
 
 
