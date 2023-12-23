@@ -23,7 +23,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/jest-6?logo=jest&logoColor=white&color=maroon" />
   <img alt="MySql" src="https://img.shields.io/badge/mysql-6?logo=mysql&logoColor=black&color=lightblue" />
-  <img alt="Mongodb" src="https://img.shields.io/badge/mongodb-6?logo=mongodb&logoColor=black&color=green" />
 </p>
 
 ### Top Repositories
